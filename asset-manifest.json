@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Titi-layo/MarkdownPreviewer/static/css/main.54105c36.chunk.css",
+    "main.js": "/Titi-layo/MarkdownPreviewer/static/js/main.db2c7bd2.chunk.js",
+    "main.js.map": "/Titi-layo/MarkdownPreviewer/static/js/main.db2c7bd2.chunk.js.map",
+    "runtime-main.js": "/Titi-layo/MarkdownPreviewer/static/js/runtime-main.5f61cce2.js",
+    "runtime-main.js.map": "/Titi-layo/MarkdownPreviewer/static/js/runtime-main.5f61cce2.js.map",
+    "static/js/2.7ac1629a.chunk.js": "/Titi-layo/MarkdownPreviewer/static/js/2.7ac1629a.chunk.js",
+    "static/js/2.7ac1629a.chunk.js.map": "/Titi-layo/MarkdownPreviewer/static/js/2.7ac1629a.chunk.js.map",
+    "index.html": "/Titi-layo/MarkdownPreviewer/index.html",
+    "precache-manifest.97a17e43bb65972599809b1a918e9c7d.js": "/Titi-layo/MarkdownPreviewer/precache-manifest.97a17e43bb65972599809b1a918e9c7d.js",
+    "service-worker.js": "/Titi-layo/MarkdownPreviewer/service-worker.js",
+    "static/css/main.54105c36.chunk.css.map": "/Titi-layo/MarkdownPreviewer/static/css/main.54105c36.chunk.css.map",
+    "static/js/2.7ac1629a.chunk.js.LICENSE.txt": "/Titi-layo/MarkdownPreviewer/static/js/2.7ac1629a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Titi-layo/MarkdownPreviewer/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f61cce2.js",
+    "static/js/2.7ac1629a.chunk.js",
+    "static/css/main.54105c36.chunk.css",
+    "static/js/main.db2c7bd2.chunk.js"
+  ]
+}
